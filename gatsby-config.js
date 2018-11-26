@@ -1,6 +1,7 @@
 const path = require('path');
 
 module.exports = {
+  pathPrefix: "/blog",
   siteMetadata: {
     title: 'The Rabbit Hole',
     description: 'How Deep Is Your Love',
